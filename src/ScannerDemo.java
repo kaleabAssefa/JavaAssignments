@@ -15,5 +15,7 @@ public class ScannerDemo {
         }else{
             System.out.println("It is not a leap year");
         }
+        scanner.close();
     }
+
 }
