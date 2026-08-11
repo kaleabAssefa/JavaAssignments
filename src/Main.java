@@ -8,7 +8,5 @@ public class Main {
         int number;
         number = random.nextInt(1,7);
         System.out.println("Then random number is: "+ number);
-
     }
-
 }
